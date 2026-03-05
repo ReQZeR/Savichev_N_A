@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Calculator_16_Savichev_N_A/Calculator_16_Savichev_N_A.vcxproj" />
+</Solution>

@@ -1,0 +1,33 @@
+﻿  Calculator_16_Savichev_N_A.cpp
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(21,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(22,9): error C2065: mov: необъявленный идентификатор
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(22,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(22,13): error C2065: eax: необъявленный идентификатор
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(22,21): error C2065: загружаем: необъявленный идентификатор
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(22,40): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "первое"
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(22,40): error C2065: первое: необъявленный идентификатор
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(22,53): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "число"
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(22,53): error C2065: число: необъявленный идентификатор
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(22,64): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "в"
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(22,64): error C2065: в: необъявленный идентификатор
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(22,67): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(22,67): error C2065: eax: необъявленный идентификатор
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(23,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "add"
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(23,9): error C2065: add: необъявленный идентификатор
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(23,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(23,13): error C2065: eax: необъявленный идентификатор
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(23,21): error C2065: складываем: необъявленный идентификатор
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(23,42): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "со"
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(23,42): error C2065: со: необъявленный идентификатор
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(23,47): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "вторым"
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(23,47): error C2065: вторым: необъявленный идентификатор
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(23,60): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "числом"
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(23,60): error C2065: числом: необъявленный идентификатор
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(24,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(24,9): error C2065: mov: необъявленный идентификатор
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(24,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "result_asm"
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(24,25): error C2065: eax: необъявленный идентификатор
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(24,30): error C2065: сохраняем: необъявленный идентификатор
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(24,49): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "результат"
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(24,49): error C2065: результат: необъявленный идентификатор
+C:\Users\college\source\repos\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A\Calculator_16_Savichev_N_A.cpp(25,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
